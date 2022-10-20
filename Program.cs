@@ -24,3 +24,6 @@ uc5mw.calcMonthWage();
 //creating an object of the uc6 class
 UC6CalcWageHourDay uc6mwhd = new UC6CalcWageHourDay();
 uc6mwhd.CalcWageForWorkingHourDay();
+
+UC7ComputeEmpWageMethod uc7method = new();
+uc7method.calcEmpWage();
